@@ -1,0 +1,17 @@
+{
+  "name": "graphql-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js --experimental-modules"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "2.0.15",
+    "graphql-yoga": "2.3.0",
+    "node-fetch": "3.2.4"
+  }
+}
